@@ -2,8 +2,8 @@
 
 ![wallet.dat](https://user-images.githubusercontent.com/82582647/190867530-275ae6ad-eb78-43f1-9600-f5628739ed05.png)</br>
 
-If you have more than 10 GPUs and are ready to look for the password for wallets.dat 24/7 <br>
-Add to the group https://t.me/+bi0ifA-TRYQxODQy (Don't add if you are going to search)
+If you have more than 2 GPUs and are ready to look for the password for wallets.dat 24/7 <br>
+Write to ```phrutis``` in telegram, after approval you will become part of the team.
 
 ## Partner addresses 25%
 :one: - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF</br>
