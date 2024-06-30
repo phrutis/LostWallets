@@ -1,4 +1,4 @@
-## Archive LostWallets 270 files wallet.dat for sale $500
+## Archive LostWallets 270 files wallet.dat for sale $2000
 
 > [!WARNING]
 > All wallets with a forgotten (lost) password!<br>
