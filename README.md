@@ -10,6 +10,7 @@
 25% - Админам<br>
 25% - Делится на всех кто искал по скорости агентов
 
+Личный кабинет на сервере, приватная телеграм группа пула.<br>
 Работаем прозрачно, скрины находок, скрины выплат, отчеты и т.п.<br>
 Если охотник без объяснения причины перестает искать (не ищет 2-3 дня) он покидает пул.<br>
 Быстрых находок не будет, если вы не готовы искать месяцами нам такие охотники не нужны.<hr>
@@ -24,6 +25,7 @@ Conditions for distributing the balance of the find:<br>
 25% - to Admins<br>
 25% - Divided among all who searched by the speed of agents
 
+Personal account on the server, private telegram group of the pool<br>
 We work transparently, screenshots of finds, screenshots of payments, reports, etc.<br>
 If the hunter stops searching without explanation (does not search for 2-3 days), he leaves the pool.<br>
 There will be no quick finds if you are not ready to search for months, we do not need such hunters.
