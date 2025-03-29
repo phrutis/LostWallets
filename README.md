@@ -1,5 +1,7 @@
 ### Selling a collection of wallet.dat with forgotten passwords $300
 
+![Image](https://github.com/user-attachments/assets/d0159ed0-b66b-4d2b-8469-bbfcca6d9a0a)
+
 307 working wallets from Bitcoin Core (86 of them have passed the authentication check) + MEGA-BONUS.<br>
 Wallets require a password!<br>
 Advantage:<br>
@@ -63,6 +65,12 @@ It should be after the address was created (from several hours to several days)
 If there are no addresses in the "Receive" tab - THIS IS A FAKE WALLET!<br>
 Scammers who replace an address in a wallet with another do not know how to replace the timings of the creation (generation) of the address.<br>
 To hide the discrepancy between the timing and the address, they delete the address from the tab.
+
+Ex valid wallet<br>
+![Image](https://github.com/user-attachments/assets/2c171a72-358b-45ad-82e1-72f5e7b2c8dd)
+
+ex fake wallet<br>
+![Image](https://github.com/user-attachments/assets/0348fdad-16e7-4215-a5bf-4edb47c77224)
 
 Also pay attention to the hash from the wallet. At the end of the hash there is an iteration counter.
 
