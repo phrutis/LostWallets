@@ -14,8 +14,8 @@ Run Bitcoin core, the program will start, all wallets will be available.<br>
 You need to wait an hour at the first launch.<br>
 The archive contains a list of 86 wallets and hashes for them for brute-force.
 
-Price 300 USD<br>
-https://t.me/cuda8/253
+Download archive https://t.me/cuda8/269
+Password: t.me/cuda8
 <hr>
 
 
