@@ -28,31 +28,6 @@ Unpacked 10.06 GB (11.4 GB)<br>
 The archive also contains wallets of other coins, many extracted dumps for analysis, hashes for brute forcing, tools, scripts, ckey, mkey comparison tables and much more.<br>
 Many wallets have duplicates, an earlier version, from another source, not indexed, etc.<br>
 
-## The bonus includes the following archives
-
-1000 files wallet.dat for Bitcoin Core<br>
-Wallets with balance, to transfer coins you need to choose a password. <br>
-In hashcat mode 11300.
-<hr>
-
-Wallets from different coins. <br>
-Total: 3.22 GB<br>
-Maybe someone will find something valuable. <br>
-Do not send coins for gas, most likely there is an automatic withdrawal.<br>
-<hr>
-
-17 wallet.dat files + dump from Bitcoin Core wallet<br>
-These files are considered by experts to be genuine.<br>
-The address creation timings correspond to the time in the blockchain.<br>
-<hr>
-
-Large unsorted Bitcoin archive over 10,000 wallets.dat<br>
-Unpacked 6.86 GB (7.3 GB)<br>
-The archive also contains wallets of other coins, many extracted dumps for analysis, hashes for brute force, tools, scripts, comparison tables ckey, mkey, and more.<br>
-Many wallets have duplicates, an earlier version, from another source, indexed, etc.<br>
-The archive was obtained from a file grabber in private logs.<br>
-<hr>
-
 ## How to check the authenticity of a wallet?
 
 The public methods that are offered on the Internet make me doubt.<br>
