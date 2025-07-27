@@ -17,11 +17,10 @@ The archive contains a list of 86 wallets and hashes for them for brute-force.
 Download archive https://t.me/cuda8<br>
 Password: ```t.me/cuda8```
 
-<b>Please do not write me your questions about wallet.dat<b><br>
-<b>I gave the files for free, study, try, brute-force, do whatever you want...<b><br>
-<b>I AM NOT INTERESTED IN THE TOPIC OF WALLET.DAT!<b><br>
+# Please do not write me your questions about wallet.dat
+# I gave the files for free, study, try, brute-force, do whatever you want...
+# I AM NOT INTERESTED IN THE TOPIC OF WALLET.DAT!<b><br>
 <hr>
-
 
 BONUS - A large unsorted Bitcoin archive of more than 10,000 wallets.dat
 Unpacked 10.06 GB (11.4 GB)<br>
