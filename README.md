@@ -14,8 +14,8 @@ Run Bitcoin core, the program will start, all wallets will be available.<br>
 You need to wait an hour at the first launch.<br>
 The archive contains a list of 86 wallets and hashes for them for brute-force.
 
-Download archive https://t.me/cuda8<br>
-Password: ```t.me/cuda8```
+Download archive https://t.me/rootsploiix<br>
+Password: ```t.me/rootsploiix```
 
 # Please do not write me your questions about wallet.dat
 # I gave the files for free, study, try, brute-force, do whatever you want...
