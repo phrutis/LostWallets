@@ -4,7 +4,7 @@
 
 307 working wallets from Bitcoin Core (86 of them have passed the authentication check) + MEGA-BONUS.<br>
 Wallets require a password!<br>
-[Balances list 307 wallets](https://github.com/phrutis/LostWallets/edit/main/README.md#307-walletdat-balance)<br>
+[Balances list 307 wallets](https://github.com/phrutis/LostWallets#307-walletdat-balance)<br>
 Advantage:<br>
 Wallets have been sorted, checked, indexed.<br>
 Quick start. You do not need to index each wallet, spending 6 hours on it.<br>
