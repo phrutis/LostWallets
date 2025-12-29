@@ -100,7 +100,7 @@ As paradoxical as it is, there are people who believe in it. <br>
 This file is from the logs, here is a screenshot, language en password length 10 + hints - this is for children, funny.<br>
 I collected all the files and gave them to you for free. <br>
 Do with them what you want, search, dream of yachts and islands and girls.<br>
-[Do not write me questions on this topic, do not waste my time!](https://github.com/phrutis/LostWallets/edit/main/README.md#please-do-not-write-me-your-questions-about-walletdat)<br>
+[Do not write me questions on this topic, do not waste my time!](https://github.com/phrutis/LostWallets#please-do-not-write-me-your-questions-about-walletdat)<br>
 I will tell you that before you, 10,000+ people were looking for these files.<br>
 Very experienced hunters, companies, miners, etc. were looking.<br>
 Many of those who searched spent tens (maybe hundreds) of thousands of dollars, but no one found anything and will never find anything!<br>
