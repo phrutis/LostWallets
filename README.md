@@ -84,45 +84,6 @@ q[/code]<br>
 Hunnibear9<br>
 12aVP18cd5XsbcGQy8u6eywQ6UuA6Q319s<hr>
 
-
-### Wallet Hints
-I hope there are no idiots trying to pick a password to wallet.dat?<br>
-All these wallet.dat files are garbage!<br>
-Do you really think that you were given a wagon of dollars, just pick the password to the lock and the money is yours)<br>
-Not even a wagon, but a train with wagons)<br>
-I understand that you want to dream that when you open it, you will become a billionaire, but the reality is completely different.<br>
-These and all other files on the Internet are created to sell them and make money on those who buy them.<br>
-People buy because human greed takes over their reason.<br>
-Ask yourself why sell wallets with money, why don't they look for millions of dollars themselves???<br>
-If they are real, opening one they will become fabulously rich.<br>
-Complex passwords are not the answer. The hints look especially funny, this is just the peak of idiocy. <br>
-As paradoxical as it is, there are people who believe in it. <br>
-This file is from the logs, here is a screenshot, language en password length 10 + hints - this is for children, funny.<br>
-I collected all the files and gave them to you for free. <br>
-Do with them what you want, search, dream of yachts and islands and girls.<br>
-[Do not write me questions on this topic, do not waste my time!](https://github.com/phrutis/LostWallets#please-do-not-write-me-your-questions-about-walletdat)<br>
-I will tell you that before you, 10,000+ people were looking for these files.<br>
-Very experienced hunters, companies, miners, etc. were looking.<br>
-Many of those who searched spent tens (maybe hundreds) of thousands of dollars, but no one found anything and will never find anything!<br>
-Even if you manage to pick up the password, you will get an error when decrypting.<br>
-What if that wallet is empty, is there movement there???<br>
-The addresses that are displayed do not correspond to private keys.
-Example. I downloaded the old Bitcoin core, changed the time on the PC (set it to 1975), created a new wallet.<br>
-There will be an address with timings of 1975, when Satoshi was still peeing under the table. In the file, change the address to any.<br> 
-You can add an address of at least 100,000 BTC. Set a password of 100 characters. <br>
-No one will open it, so they will not be able to prove that the file is fake. <br>
-They sell it for $ 1000 to an idiot, then this file starts to walk from hand to hand and all over the Internet. <br>
-Others, having received it for free, think that they are smarter than those who searched before him. <br>
-Especially those who have new RTX 5090 cards, they think that passwords will be found by themselves from the power) <br>
-But they do not think that brains, real password databases, rules, etc. are needed.<br>
-Would you give your safe with money to someone for which you forgot the password? You would not even give away an empty safe.<br>
-If you are ready to buy such files from me for a cent per piece, I will make you 100,000 pieces with your favorite amounts and timings, <br>
-I can add your address upon request. When you transfer coins from this address everyone will scream, and the wallet 742.78585798.dat is empty, someone picked up the password before me, aaaa.<br>
-**Don't waste your time, money and resources on nonsense.** <br>
-**Search in [bip39scan](https://github.com/phrutis/bip39scan) there are real finds.**
-
-P.S. Sorry for dispelling your goal to become a billionaire.
-
 ### 307 wallet.dat balance
 31000.07426868 BTC<br>
 12600.30372986 BTC<br>
@@ -419,3 +380,40 @@ P.S. Sorry for dispelling your goal to become a billionaire.
 0.00000002 BTC<br>
 0.01212207 BTC<br><hr>
 
+### Wallet Hints
+I hope there are no idiots trying to pick a password to wallet.dat?<br>
+All these wallet.dat files are garbage!<br>
+Do you really think that you were given a wagon of dollars, just pick the password to the lock and the money is yours)<br>
+Not even a wagon, but a train with wagons)<br>
+I understand that you want to dream that when you open it, you will become a billionaire, but the reality is completely different.<br>
+These and all other files on the Internet are created to sell them and make money on those who buy them.<br>
+People buy because human greed takes over their reason.<br>
+Ask yourself why sell wallets with money, why don't they look for millions of dollars themselves???<br>
+If they are real, opening one they will become fabulously rich.<br>
+Complex passwords are not the answer. The hints look especially funny, this is just the peak of idiocy. <br>
+As paradoxical as it is, there are people who believe in it. <br>
+This file is from the logs, here is a screenshot, language en password length 10 + hints - this is for children, funny.<br>
+I collected all the files and gave them to you for free. <br>
+Do with them what you want, search, dream of yachts and islands and girls.<br>
+[Do not write me questions on this topic, do not waste my time!](https://github.com/phrutis/LostWallets#please-do-not-write-me-your-questions-about-walletdat)<br>
+I will tell you that before you, 10,000+ people were looking for these files.<br>
+Very experienced hunters, companies, miners, etc. were looking.<br>
+Many of those who searched spent tens (maybe hundreds) of thousands of dollars, but no one found anything and will never find anything!<br>
+Even if you manage to pick up the password, you will get an error when decrypting.<br>
+What if that wallet is empty, is there movement there???<br>
+The addresses that are displayed do not correspond to private keys.
+Example. I downloaded the old Bitcoin core, changed the time on the PC (set it to 1975), created a new wallet.<br>
+There will be an address with timings of 1975, when Satoshi was still peeing under the table. In the file, change the address to any.<br> 
+You can add an address of at least 100,000 BTC. Set a password of 100 characters. <br>
+No one will open it, so they will not be able to prove that the file is fake. <br>
+They sell it for $ 1000 to an idiot, then this file starts to walk from hand to hand and all over the Internet. <br>
+Others, having received it for free, think that they are smarter than those who searched before him. <br>
+Especially those who have new RTX 5090 cards, they think that passwords will be found by themselves from the power) <br>
+But they do not think that brains, real password databases, rules, etc. are needed.<br>
+Would you give your safe with money to someone for which you forgot the password? You would not even give away an empty safe.<br>
+If you are ready to buy such files from me for a cent per piece, I will make you 100,000 pieces with your favorite amounts and timings, <br>
+I can add your address upon request. When you transfer coins from this address everyone will scream, and the wallet 742.78585798.dat is empty, someone picked up the password before me, aaaa.<br>
+**Don't waste your time, money and resources on nonsense.** <br>
+**Search in [bip39scan](https://github.com/phrutis/bip39scan) there are real finds.**
+
+P.S. Sorry for dispelling your goal to become a billionaire.
